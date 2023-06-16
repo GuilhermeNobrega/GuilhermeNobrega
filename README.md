@@ -6,7 +6,6 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
