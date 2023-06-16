@@ -7,7 +7,7 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
