@@ -2,3 +2,13 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
+
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
