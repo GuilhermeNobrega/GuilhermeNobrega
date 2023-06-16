@@ -2,8 +2,7 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
-<hr> test
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
