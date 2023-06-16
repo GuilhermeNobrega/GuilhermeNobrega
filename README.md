@@ -4,7 +4,7 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" />
