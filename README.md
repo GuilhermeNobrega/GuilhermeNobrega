@@ -14,6 +14,4 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" />
