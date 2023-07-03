@@ -4,7 +4,7 @@ Hi, I'm a young developer and student of cyber security. Below you can find me o
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
 
