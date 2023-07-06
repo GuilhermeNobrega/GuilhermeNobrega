@@ -16,6 +16,7 @@
 <hr>
 💻 I know things about..
 <br>
+
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
