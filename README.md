@@ -1,6 +1,6 @@
 👋 Hi, I'm a young developer and student of cyber security. Below you can find me on other social networks!
 
-🌱 In my account, you gonna find a lot of little things!
+🌱 On my account you will find a lot of little things!
 
 
 📫
