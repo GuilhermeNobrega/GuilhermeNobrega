@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true)
 
-<img src="https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg" alt=”an artist's rendition of a black hole in space” style=”width:400px;height:200px;">
+<img src="https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg"style=”width:400px;height:200px;">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
