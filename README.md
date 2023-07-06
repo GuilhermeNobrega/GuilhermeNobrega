@@ -14,9 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
 
 <hr>
-💻 I know things about..<br>
-
-
+💻 I know things about..
+<br>
+<br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
