@@ -1,4 +1,4 @@
-👋 Hi, I'm a young developer and student of cyber security. Below you can find me on other social networks!
+👋 Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
 
 🌱 On my account you will find a lot of little things!
 
