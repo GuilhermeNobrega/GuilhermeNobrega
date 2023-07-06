@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true)
 
-<img src="/csz/news/800/2017/theoreticala.jpg" alt=”an artist's rendition of a black hole in space”>
+<img src="https://media.tenor.com/sboZxklZ2pcAAAAC/8bit-space.gif" alt=”an artist's rendition of a black hole in space”>
 
 
 
