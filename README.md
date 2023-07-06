@@ -1,4 +1,3 @@
-<img src="https://media.tenor.com/sboZxklZ2pcAAAAC/8bit-space.gif" alt=" artist rendition of a black hole in space">
 
 👋 Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
 
