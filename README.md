@@ -4,7 +4,6 @@
 
 🌱 On my account you will find a lot of little things!
 
-:space_invader: I like play some games: League of legends and Counter Strike
 
 📫 -/-//-/--
 
