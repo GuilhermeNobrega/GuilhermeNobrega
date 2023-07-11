@@ -4,7 +4,8 @@
 
 🌱 On my account you will find a lot of little things!
 
-:space_invader:
+:space_invader: Gamer
+
 📫 -/-//-/--
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)
