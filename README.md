@@ -4,7 +4,7 @@
 
 🌱 On my account you will find a lot of little things!
 
-:space_invader: Gamer
+:space_invader: Games
 
 📫 -/-//-/--
 
