@@ -3,6 +3,7 @@
 
 🌱 On my account you will find a lot of little things!
 
+😃  I like to help and teach to people. knowledge is everthing!
 
 📫 -/-//-/--
 
