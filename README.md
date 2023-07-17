@@ -15,7 +15,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=dracula)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=dracula)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
 <hr>
 💻 I know things about..
