@@ -6,7 +6,7 @@
 <br>-----------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!-------------------------------------
 
 
-<br>-----------------------------------------------<img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!---------------------
+<br>-----------------------------------------------<img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!-------------------------------
 
 📫  Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
