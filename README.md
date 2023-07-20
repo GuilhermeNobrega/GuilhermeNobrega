@@ -2,7 +2,7 @@
 👋 Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
 
 ⭐ I like to help and teach to people. knowledge is everthing!
-<img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="70"><br><br>
+<img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="70"><br>
 <br><img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="70">
 <br><img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="70">
 
