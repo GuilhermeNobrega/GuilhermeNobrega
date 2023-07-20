@@ -23,7 +23,7 @@
 
 ![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Guilherme}&theme={dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=dracula)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=tokyonight)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
 <hr>
 💻 I know things about..
