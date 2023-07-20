@@ -1,4 +1,4 @@
-<img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="260">
+<img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="100">
 
 👋 Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
 
