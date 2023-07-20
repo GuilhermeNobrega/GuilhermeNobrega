@@ -21,7 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=tokyonight&show_icons=true)
 
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Guilherme}&theme={dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=tokyonight)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
