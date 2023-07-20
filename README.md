@@ -38,8 +38,8 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" /> <br>
 
 <hr>
 
-<img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="30" height="30">
+<img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="50" height="50">
