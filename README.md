@@ -14,7 +14,6 @@
 
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
 [![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=tokyonight&show_icons=true)
