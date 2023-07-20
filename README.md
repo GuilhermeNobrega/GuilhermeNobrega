@@ -19,6 +19,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=dracula&show_icons=true)
 
 <img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-27%2F&psig=AOvVaw0XTH4EnnC_7uv-WGrtyuIl&ust=1689942650632000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiWh42lnYADFQAAAAAdAAAAABAE" width="260">
+
 
 
 
