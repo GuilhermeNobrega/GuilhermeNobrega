@@ -43,4 +43,5 @@
 <hr>
 
 <img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="50" height="50"> <br>
+
 [<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">](s)
