@@ -6,7 +6,7 @@
 
 <style>
 <img align='right' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="70">
-margin-left:auto;
+margin-left:25px;
 
 margin-right:auto;
 
