@@ -18,6 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=dracula&show_icons=true)
 
+<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
 
 
 
@@ -39,5 +40,3 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" />
 
-
-<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
