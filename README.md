@@ -4,7 +4,7 @@
 
 ⭐ I like to help and teach to people. knowledge is everthing!<br>
 
-<img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="14" height="14">
+<img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="140" height="100">
 
 
 🌱 On my account you will find a lot of little things!
