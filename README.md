@@ -3,7 +3,7 @@
  Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
  
 [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
-<br>-----------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
+<br>--------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
 
 
 <br><img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!
