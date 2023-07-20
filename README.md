@@ -21,10 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=dracula&show_icons=true)
 
-<img align='center' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=dracula)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
