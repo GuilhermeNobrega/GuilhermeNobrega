@@ -19,7 +19,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantasguilherme434@gmail.com)](mailto:dantasguilherme434@gmail.com)
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=tokyonight&show_icons=true)
 
 ![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Guilherme}&theme={dracula)
 
