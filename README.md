@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=dracula&show_icons=true)
 
-![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Guilherme}&theme={dracula)
+![Anudasd GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Guilherme}&theme={dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=dracula)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
