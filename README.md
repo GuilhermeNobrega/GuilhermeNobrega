@@ -3,7 +3,7 @@
  Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
  
 
-⭐ I like to help and teach to people. knowledge is everthing!<br>
+<br>⭐ I like to help and teach to people. knowledge is everthing!<br>
 
 
 <img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!
