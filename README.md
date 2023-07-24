@@ -17,11 +17,12 @@
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://developer.marvel.com/docs#!/public/getComicsCharacterCollection_get_2">](s)
 [![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
 <hr>
+
+
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&layout=compact&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&layout=compact&theme=tokyonight)](https://github.com/GuilhermeNobrega/GuilhermeNobrega/edit/main/ABOUT.md)
 
 <hr>
 💻 I know things about..
