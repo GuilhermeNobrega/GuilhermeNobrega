@@ -37,8 +37,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" /> <br>
 
 <hr>
-
-Versions of Linux I have and have used.. 
+<img align='center' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkazI5eW93cW9kdDU2NDloeHFmdHJ1OWNqZTRzbW56aHZ3cnNmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hRLz2uLh5AX1zPsjOS/200.gif" width="40" height="40">Versions of Linux I have and have used.. 
 
 <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
