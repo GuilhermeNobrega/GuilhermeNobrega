@@ -14,7 +14,7 @@
 
 <img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}"/>
 
-&nbsp;&nbsp;&nbsp;![](https://dcbadge.vercel.app/api/shield/406125028065804289)
+&nbsp;&nbsp;&nbsp;![](https://dcbadge.vercel.app/api/shield/jojo)
 
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://developer.marvel.com/docs#!/public/getComicsCharacterCollection_get_2">](s)
 [![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
