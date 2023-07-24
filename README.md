@@ -10,6 +10,9 @@
 
 📫  //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
+
+![](https://dcbadge.vercel.app/api/shield/Would Kindly)
+
 <img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}"/>
 
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://developer.marvel.com/docs#!/public/getComicsCharacterCollection_get_2">](s)
