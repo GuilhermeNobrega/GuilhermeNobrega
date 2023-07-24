@@ -10,7 +10,7 @@
 
 📫  //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
-<img src="https://dcbadge.vercel.app/api/shield/abcate#1313" />
+<img src="https://dcbadge.vercel.app/api/shield/" />
 
 <img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}"/>
 
