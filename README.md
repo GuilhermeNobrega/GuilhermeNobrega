@@ -12,9 +12,6 @@
 
 <img src="https://dcbadge.vercel.app/api/shield/1323123" />
 
-<img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}"/>
-
-
 [<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
 [![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
 <hr>
