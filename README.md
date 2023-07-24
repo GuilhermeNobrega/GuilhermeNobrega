@@ -29,7 +29,7 @@
 
 <br>
 <br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="30"/>
+<img  align="left" link =" https://www.browserstack.com/guide/how-to-resize-image-using-css#:~:text=You%20can%20resize%20any%20image,devices%20it%20is%20viewed%20upon."src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="30"/>
 <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
