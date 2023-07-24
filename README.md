@@ -2,7 +2,7 @@
 <img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="30" height="30">
  Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
  
-[![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
+  [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
 <br>--------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
 
 
@@ -40,7 +40,7 @@
 
 <hr>
 
-<img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="40" height="40">  <strong>I like to play...
+<img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="40" height="40">  <strong>I like to play and use...
 
 [<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">](s)
 [<img src = "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=black">](s)
