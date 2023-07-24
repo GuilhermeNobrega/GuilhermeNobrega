@@ -49,6 +49,8 @@ Versions of Linux I have and have used..
 
  
 [<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">](s)
+
 [<img src = "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=black">](s)
+
 [<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](s)
 
