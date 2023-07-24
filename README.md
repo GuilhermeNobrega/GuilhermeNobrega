@@ -45,12 +45,11 @@ Versions of Linux I have and have used..
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
 <hr>
+
 <img align='center' src="https://gifdb.com/images/thumbnail/galaga-ship-gyaraga-art-48fvhsarxw0j2oku.gif" width="40" height="40">  <strong>I like to play and use...
 
  
 [<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">](s)
-
 [<img src = "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=black">](s)
-
 [<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](s)
 
