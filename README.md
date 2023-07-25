@@ -45,7 +45,7 @@
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
 <i>"We're hackers, and we are good-looking. We are the 1%."
-- Overthewire</i>
+-> Overthewire</i>
 
 <hr>
 
