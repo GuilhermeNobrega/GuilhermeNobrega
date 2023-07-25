@@ -44,6 +44,8 @@
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
+<i>"We're hackers, and we are good-looking. We are the 1%."</i>
+
 <hr>
 
 <img align='center' src="https://media.tenor.com/N5wDfP4o1oEAAAAC/mario-mystery-box.gif" width="40" height="40">  <strong>I like to play and use...
