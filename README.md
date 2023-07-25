@@ -40,7 +40,7 @@
 
 <img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40"> Versions of Linux I have and have used...
 
-<img src = "https://miro.medium.com/v2/1*VLXFzVtGx16B1iH81bcTPw.png" width="20" height="20">
+<img src = "https://miro.medium.com/v2/1*VLXFzVtGx16B1iH81bcTPw.png" width="40" height="10">
  I like to play ctf´s in overthewire
  
 <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
