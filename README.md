@@ -5,12 +5,14 @@
   [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
 <br>--------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
 
+<br><img align='center' src="https://i.gifer.com/QFLl.gif" width="30" height="30"> I'm a scientist, and I need to understand the why of things!
+
 
 <br><img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!
 
 📫  //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
-
+I'm a scientist, and I need to understand the why of things!
 
 
 [<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
