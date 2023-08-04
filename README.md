@@ -10,7 +10,7 @@
 <br><img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!
 
 
- <img align='center' src="https://i.pinimg.com/originals/2f/8b/78/2f8b78400df23ce23160c0e5f5cc9c6e.gif" width="30" height="30"> //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
+ <img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
 
 [<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
