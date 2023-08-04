@@ -11,7 +11,6 @@
 
 📫  //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
 
-I'm a scientist, and I need to understand the why of things!
 
 
 [<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
