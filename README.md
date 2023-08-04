@@ -19,12 +19,11 @@
 
 
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
 
 <hr>
-💻 I know things about..
+ <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif " width="30" height="30"> I know things about..
 
 <br>
 <br>
