@@ -1,14 +1,14 @@
 <strong>
-<img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="30" height="30">
+<img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
  Hi, I'm a young developer and student of computer Science, but i like to study cyber security and another things! Below you can find me on other social networks!
  
   [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
  
 <br>--------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
 
-<br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="30" height="30"> I'm a scientist, I need to understand the why of things!
+<br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
 
-<br><img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="30" height="30"> On my account you will find a lot of little things!
+<br><img align='center' src="https://art.pixilart.com/056b06fa01ec6ec.gif" width="40" height="40"> On my account you will find a lot of little things!
 
 
  <img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
 
 <hr>
- <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif " width="30" height="30"> I know things about..
+ <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif " width="40" height="40"> I know things about..
 
 <br>
 <br>
