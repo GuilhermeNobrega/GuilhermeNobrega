@@ -28,7 +28,7 @@
 
 <br>
 <br>
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="30" />
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
