@@ -4,7 +4,7 @@
  
   [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
  
-<br>--------------------------------------------⭐ I like to help and teach to people. knowledge is everthing!⭐--------------------------------
+<br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 
 <br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
 
