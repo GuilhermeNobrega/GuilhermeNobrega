@@ -65,4 +65,4 @@
 </div>
 <p align="center"
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=compact&show_offline=false&background_color=0a0505&interchange=false)](https://github.com/kittinan/spotify-github-profile) >
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=compact&show_offline=false&background_color=0a0505&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
