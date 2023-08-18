@@ -64,6 +64,3 @@
 <br>
 </div>
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/GuilhermeNobrega/spotify-github-profile -->
-<p align="center">
-
