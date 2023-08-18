@@ -63,3 +63,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
 <br>
 </div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/GuilhermeNobrega/spotify-github-profile/master/img/default.svg" height="130" width="300">
