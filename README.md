@@ -59,7 +59,7 @@
 [<img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">](s)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>times I come here</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
 <br>
 </div>
