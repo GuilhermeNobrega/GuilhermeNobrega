@@ -1,3 +1,4 @@
+
 <strong>
 <img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
  Hi, I'm a young developer and Computer Science student, and I like to study cyber-security and other things! Here are my other social networks:
