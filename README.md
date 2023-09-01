@@ -23,7 +23,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&layout=center&title=Commit&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&margin-w=15&layout=center&title=Commit&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
