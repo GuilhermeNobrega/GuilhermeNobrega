@@ -23,6 +23,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&layout=center&title=Commit&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <hr>
  <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
@@ -67,5 +70,4 @@
 <p align="center"
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=compact&show_offline=false&background_color=0a0505&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 
