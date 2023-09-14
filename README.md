@@ -3,7 +3,8 @@
 <img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
  Hi, I'm a young developer and Computer Science student, and I like to study other things! Here are my other social networks:
  
-  [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
+ 
+<br> [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
  
 <br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 
