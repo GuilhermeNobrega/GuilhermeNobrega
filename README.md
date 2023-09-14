@@ -1,7 +1,7 @@
 
 <strong>
 <img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
- Hi, I'm a young developer and Computer Science student, and I like to study cyber-security and other things! Here are my other social networks:
+ Hi, I'm a young developer and Computer Science student, and I like to study other things! Here are my other social networks:
  
   [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
  
@@ -47,9 +47,6 @@
 <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-
-<i>"We're hackers, and we are good-looking. We are the 1%."<br>
--> Overthewire</i>
 
 <hr>
 
