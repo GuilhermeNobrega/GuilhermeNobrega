@@ -8,11 +8,11 @@
  
 <br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 <p align="center">
-<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="90" width="300">
+<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100" width="300">
 
 <br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
 
-<br><img align='center' src="https://thumbs.gfycat.com/EminentMistyBighornedsheep-size_restricted.gif" width="50" height="50"> On my account you will find a lot of little things!
+<br><img align='center' src="https://i.pinimg.com/originals/7b/bf/dc/7bbfdc15f72495dd5669007d168e95e0.gif" width="50" height="50"> On my account you will find a lot of little things!
 
 
  <img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
