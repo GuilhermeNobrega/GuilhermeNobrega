@@ -7,6 +7,8 @@
 <br> [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
  
 <br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
+<p align="center">
+<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="90" width="300">
 
 <br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
 
@@ -82,8 +84,6 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-moonwalking.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-moonwalking.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-moonwalking.gif" height="50" width="50">
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
