@@ -12,3 +12,5 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-marshmallow.gif" height="50" width="50">
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-moonwalking.gif" height="50" width="50">
+<p align="center">
+https://github.com/seanprashad/slackmoji
