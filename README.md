@@ -52,7 +52,7 @@
 
 <hr>
 
-<img align='center' src="https://media.tenor.com/N5wDfP4o1oEAAAAC/mario-mystery-box.gif" width="40" height="40">  <strong>I like to play and use...
+<img src="https://media.tenor.com/N5wDfP4o1oEAAAAC/mario-mystery-box.gif" width="40" height="40">  <strong>I like to play and use...
 
 
 [<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">](s)
@@ -60,15 +60,19 @@
 [<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](s)
 [<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">](s)
 [<img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">](s)
-
-<div align="center">
-<br><p align="centre"><b>times I come here</b></p>  
+<p align="center">
+<img src="https://art.pixilart.com/028d26275ff2b38.gif" height="200" width="500">
+<br><p align="center"><b>times I come here</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
 <br>
 </div>
 <p align="center"
- 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+<img src="https://i.pinimg.com/originals/09/94/a7/0994a782621e07e7bdca2573e87edcbf.gif" height="100" width="200">
+<img src="https://i.pinimg.com/originals/09/94/a7/0994a782621e07e7bdca2573e87edcbf.gif" height="100" width="200">
+<img src="https://i.pinimg.com/originals/09/94/a7/0994a782621e07e7bdca2573e87edcbf.gif" height="100" width="200">
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-boba.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-boba.gif" height="50" width="50">
