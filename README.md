@@ -87,5 +87,5 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
-<img src="https://images.squarespace-cdn.com/content/v1/52002aace4b0272ae5624a64/1549417721702-APU5VOHV1WMG4HT7ZAV9/FORD-GT40.gif" height="100" width="200">
+<img src="https://media.tenor.com/p20-cvsNTYEAAAAd/grid-ford-gt40.gif" height="100" width="200">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
