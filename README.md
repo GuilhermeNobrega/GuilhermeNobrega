@@ -73,7 +73,6 @@
 <hr>
 
 <p align="center">
-<img src="https://art.pixilart.com/028d26275ff2b38.gif" height="200" width="500">
 <p align="center">
 <img src="https://i.pinimg.com/originals/09/94/a7/0994a782621e07e7bdca2573e87edcbf.gif" height="100" width="200">
 <img src="https://i.pinimg.com/originals/09/94/a7/0994a782621e07e7bdca2573e87edcbf.gif" height="100" width="200">
