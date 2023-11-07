@@ -18,3 +18,7 @@ https://github.com/seanprashad/slackmoji
 <img src="https://images.squarespace-cdn.com/content/v1/52002aace4b0272ae5624a64/1549417721702-APU5VOHV1WMG4HT7ZAV9/FORD-GT40.gif" height="100" width="200">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/70f81163393359.5ab4c75066483.gif" height="100" width="100">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/70472863393359.5ab4e06f91598.gif" height="100" width="100">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&margin-w=15&layout=center&title=Commit&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
