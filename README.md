@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62)
 
 <strong>
 <img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
