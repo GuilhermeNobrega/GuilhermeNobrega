@@ -38,6 +38,7 @@
 </details>
 
 <hr>
+
 <img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
@@ -112,5 +113,4 @@
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
 <br>
 <img src="https://i.pinimg.com/originals/17/fa/16/17fa1645f3c9291d5ddc970b031868ff.gif" height="200%" width="300%">
-<img src="https://cdn.dribbble.com/users/595124/screenshots/2954761/bb-8-bit.gif" height="100%" width="100%">
 <br>
