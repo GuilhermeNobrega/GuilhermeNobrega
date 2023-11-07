@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62&text=Welcome%20traveler!%20I'm%20a%20young%20developer%20and%20Computer%20Science%20student&fontSize=20&)
 
-<strong><br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
+<br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 <p align="center">
 <img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
 
