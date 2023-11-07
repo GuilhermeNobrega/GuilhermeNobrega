@@ -38,12 +38,9 @@
 </details>
 
 <hr>
- <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
+<img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
 
-<br>
-<br>
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br>
@@ -52,8 +49,7 @@
 
 <img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40"> Versions of Linux I have and have used...
 
-<img src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
-<img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
