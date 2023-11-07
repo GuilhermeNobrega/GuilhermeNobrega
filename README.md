@@ -35,7 +35,13 @@
   <br/>
 </details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeNobrega&bg_color=#ff99cc&color=#0033cc&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
 
 <hr>
  <br><img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
