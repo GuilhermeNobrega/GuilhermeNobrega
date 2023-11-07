@@ -108,4 +108,4 @@
 <br>
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
 <br>
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://i.pinimg.com/originals/17/fa/16/17fa1645f3c9291d5ddc970b031868ff.gif" height="200%" width="300%">
