@@ -8,7 +8,7 @@
  
 <br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 <p align="center">
-<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100" width="300">
+<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
 
 <br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
 
