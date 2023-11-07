@@ -1,12 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62&text=Welcome%20traveler!%20I'm%20a%20young%20developer%20and%20Computer%20Science%20student&fontSize=20&)
 
-<strong>
-<img align='center' src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" width="40" height="40">
- Hi, I'm a young developer and Computer Science student, and I like to study other things! Here are my other social networks:
- 
- 
-<br> [![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
- 
 <br>--------------------------------------------⭐ I like to help and teach people. knowledge is everthing!⭐--------------------------------
 <p align="center">
 <img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
@@ -16,7 +9,7 @@
 <br><img align='center' src="https://i.pinimg.com/originals/7b/bf/dc/7bbfdc15f72495dd5669007d168e95e0.gif" width="50" height="50"> On my account you will find a lot of little things!
 
 
- <img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> //Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30">
+ <img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30"> <br>[![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
 
 
 [<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
