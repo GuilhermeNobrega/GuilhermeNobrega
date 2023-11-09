@@ -22,3 +22,6 @@ https://github.com/seanprashad/slackmoji
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNobrega&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&hide=TeX&layout=compact&theme=tokyonight)
   [![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&margin-w=15&layout=center&title=Commit&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://i.pinimg.com/originals/17/fa/16/17fa1645f3c9291d5ddc970b031868ff.gif" height="200%" width="300%">
+<img src="https://github.com/GuilhermeNobrega/GuilhermeNobrega/blob/main/uwwte8wps4h91.gif" height="200%" width="300%">
