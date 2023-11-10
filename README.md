@@ -67,7 +67,7 @@
 <hr>
 
 <p align="center">
-<br><p align="center"><b>times I come here</b></p>  
+<br><p align="center"><b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
 <br>
 </div>
