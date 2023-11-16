@@ -112,3 +112,12 @@
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62)
+
+
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
