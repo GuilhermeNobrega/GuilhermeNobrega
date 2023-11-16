@@ -25,3 +25,4 @@ https://github.com/seanprashad/slackmoji
 
 <img src="https://i.pinimg.com/originals/17/fa/16/17fa1645f3c9291d5ddc970b031868ff.gif" height="200%" width="300%">
 <img src="https://github.com/GuilhermeNobrega/GuilhermeNobrega/blob/main/uwwte8wps4h91.gif" height="200%" width="300%">
+<img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
