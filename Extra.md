@@ -26,3 +26,178 @@ https://github.com/seanprashad/slackmoji
 <img src="https://i.pinimg.com/originals/17/fa/16/17fa1645f3c9291d5ddc970b031868ff.gif" height="200%" width="300%">
 <img src="https://github.com/GuilhermeNobrega/GuilhermeNobrega/blob/main/uwwte8wps4h91.gif" height="200%" width="300%">
 <img src="https://media.tenor.com/rjXltHQbxYkAAAAd/pink-guy-you.gif" height="100" width="100">
+
+
+
+<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
+<table align="center" height="280px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Django</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="60px" alt="FastAPI icon"/><br>
+      <sub>
+        <b>
+          <pre>FastAPI</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br>
+      <sub>
+        <b>
+          <pre>AWS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>Docker</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=heroku" width="65px" alt="Heroku icon"/><br>
+      <sub>
+        <b>
+          <pre>Heroku</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65px" alt="Django icon"/><br>
+      <sub>
+        <b>
+          <pre>Pandas</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br>
+      <sub>
+        <b>
+          <pre>PostgreSQL</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Mysql icon"/><br>
+      <sub>
+        <b>
+          <pre>Mysql</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="65px" alt="SQLite icon"/><br>
+      <sub>
+        <b>
+          <pre>SQLite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="65px" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>SQLAlchemy</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65px" alt="Axios icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;OpenCV&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <sub>
+        <b>
+          <pre>Windows</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
