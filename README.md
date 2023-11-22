@@ -44,8 +44,7 @@
 
 </details>
 
-<hr>
-
+<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align='center' src="https://media.tenor.com/Y56BShm-6V0AAAAC/wikipedia-wikipedian.gif" width="40" height="40"> I know things about..
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
