@@ -16,7 +16,8 @@
 [![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
 <hr>
 
-## Github stats 📊
+<h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
+
 <details>
  ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 <h4>
