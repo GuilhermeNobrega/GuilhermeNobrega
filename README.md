@@ -113,6 +113,39 @@
         </b>
       </sub>
     </td>
+   <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Bash</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=discord" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Bots</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+  <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Mysql</pre>
+        </b>
+      </sub>
+    </td>
+ <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Visual Studio Code</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 <br><br>
