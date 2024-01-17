@@ -251,3 +251,9 @@ https://github.com/seanprashad/slackmoji
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeInIn&descAlignY=51&descAlign=62)
+
+
+<br><img align='center' src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif?20100504223639" width="40" height="40"> I'm a scientist, I need to understand the why of things!
+
+<br><img align='center' src="https://i.pinimg.com/originals/7b/bf/dc/7bbfdc15f72495dd5669007d168e95e0.gif" width="50" height="50"> On my account you will find a lot of little things!
+
