@@ -69,10 +69,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Flask icon"/><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Flask icon"/><br>
       <sub>
         <b>
-          <pre>Java</pre>
+          <pre>Docker</pre>
         </b>
       </sub>
     </td>
