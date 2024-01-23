@@ -24,14 +24,20 @@
 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GuilhermeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GuilhermeNobrega&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=midnight-purple&hide_border=truetitle_color=5c00e6&icon_color=#00E676&hide=Jupyter%20Notebook" height="192px"/>
-    </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Commit,Repositories,Followers,Experiencie,Issues&column=7&margin-w=15&margin-h=15&theme=gitdimmed" alt="trophy"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GuilhermeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GuilhermeNobrega&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676" height="192px"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
+  </a>
   <br/>
 </details>
+
 
 <details>
   <summary>Activity Graph 📈</summary>
