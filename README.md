@@ -1,4 +1,4 @@
-<p align="center">
+<p align="ccenter">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/>
 </p>
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
