@@ -176,6 +176,7 @@
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <hr>
+  <img src="" height="200%" width="300">
 <p align="center">
   <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="200%" width="300">
   <img src="https://i.seadn.io/gcs/files/f997f4932d51a8c43c2cb903994dee2a.gif?auto=format&dpr=1&w=3840" height="50%" width="187">
