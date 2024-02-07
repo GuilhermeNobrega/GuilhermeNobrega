@@ -147,6 +147,22 @@
         </b>
       </sub>
     </td>
+  <td align="center" width="100px;">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+  <td align="center" width="100px;">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>StackOverflow</pre>
+        </b>
+      </sub>
+    </td>
  <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="Git icon"/><br>
       <sub>
@@ -158,7 +174,6 @@
   </tr>
 </table>
 <br><br>
-
 <img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40"> <strong> Versions of Linux I have and have used...
 
 <img src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
