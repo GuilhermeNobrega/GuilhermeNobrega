@@ -177,8 +177,36 @@
 </table>
 <br><br>
 
-<hr>
+<!-- =============================================================== -->
 
+<h2 align="center">🛠️ &ensp; <i>L i n u x</i></h2>
+<table align="center" height="50px">
+  <tr>
+    <td align="center">
+      <img src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"><br>
+    </td>
+    <td align="center">
+      <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
+    </td>
+     <td align="center">
+      <img src="https://img.shields.io/badge/Arch-557C94?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
+    </td>
+    <td align="center">
+      <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br>
+    </td>
+    <td align="center">
+      <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"><br>
+    </td>
+</table>
+<p align="center">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+<img align='center' src="https://static.wikia.nocookie.net/supaplex/images/0/0a/Terminal.gif/revision/latest/thumbnail/width/360/height/360?cb=20180120185603" width="40" height="40">
+</p>
+<hr>
 <p align="center">
 <br><p align="center"><b></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
