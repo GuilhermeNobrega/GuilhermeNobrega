@@ -163,47 +163,7 @@
         </b>
       </sub>
     </td>
-     <td align="center" width="100px;">
-      <img src="https://img.shields.io/badge/Arch-557C94?style=for-the-badge&logo=arch-linux&logoColor=white" width="100px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Arch Linux</pre>
-        </b>
-      </sub>
-    </td>
-  <td align="center" width="100px;">
-      <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" width="600px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Virtual Box</pre>
-        </b>
-      </sub>
-    </td>
-       <tr>
-       <td align="center" width="100px;">
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" width="600px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Debian</pre>
-        </b>
-      </sub>
-    </td>
-       <td align="center" width="100px;">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="600px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Ubuntu</pre>
-        </b>
-      </sub>
-    </td>
-     <td align="center" width="100px;">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" width="600px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Kali Linux</pre>
-        </b>
-      </sub>
-    </td>
+     
  <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="Git icon"/><br>
       <sub>
