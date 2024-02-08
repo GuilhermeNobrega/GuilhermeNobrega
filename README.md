@@ -176,10 +176,8 @@
   </tr>
 </table>
 <br><br>
-
 <!-- =============================================================== -->
-
-<h2 align="center">🛠️ &ensp; <i>L i n u x</i></h2>
+<h2 align="center">&ensp; <i>═══════ 𝐋𝐈𝐍𝐔𝐗 ═══════</i></h2>
 <table align="center" height="50px">
   <tr>
     <td align="center">
