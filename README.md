@@ -40,10 +40,9 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeNobrega&theme=jolly&utcOffset=8">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=jolly">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=jolly">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNobrega&theme=jolly">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeNobrega&theme=dracula&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=dracula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula">
     <!-- alt="Data on commits per day" width="49.7%" height="auto -->
   </a>
   <br/>
