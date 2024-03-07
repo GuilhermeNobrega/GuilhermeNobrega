@@ -10,14 +10,9 @@
     <img src="https://img.shields.io/badge/Ou%C3%A7a%20a%20M%C3%BAsica-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
   </a>
 </p>
-
-  
-<img align='center' src="https://ph-files.imgix.net/78f65287-ebc1-41b2-9f8a-34b66dcd30b0.gif?auto=format" width="30" height="30"> Contact: <img align='center' src="https://ciejanarede.files.wordpress.com/2018/03/seta_baixo.gif" width="30" height="30"> <br>[![Linkedisn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b/)](https://www.linkedin.com/in/guilherme-n%C3%B3brega-40ab4a23b)<br>
-
-
-[![](https://img.shields.io/badge/Gmail-dantas.guilherme.434%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantasguilherme434@gmail.com)
+<br>
+<br>
 <hr>
-
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 
 <details>
