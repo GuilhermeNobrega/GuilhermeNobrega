@@ -32,14 +32,14 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Commit,Repositories,Followers,Experiencie,Issues,Stars&column=7&margin-w=15&margin-h=15&theme=juicyfresh" alt="trophy"/> 
+    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Commit,Repositories,Followers,Experiencie,Issues,Stars&column=7&margin-w=15&margin-h=15&theme=ambient_gradient" alt="trophy"/> 
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GuilhermeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GuilhermeNobrega&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676" height="192px"/>
+    <img alt="GuilhermeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GuilhermeNobrega&show_icons=true&count_private=true&theme=ambient_gradient&hide_border=true&title_color=5c00e6&icon_color=00E676" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&title_color=5c00e6&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
+    <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true&title_color=5c00e6&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeNobrega&theme=dracula&utcOffset=8">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=dracula">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula">
