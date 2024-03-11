@@ -7,7 +7,7 @@
   
 <p align="center">
   <a href="https://youtu.be/FWDFGYMNv3Q?si=zZe73ePf4e0PHVr0">
-    <img src="https://img.shields.io/badge/Ou%C3%A7a%20a%20M%C3%BAsica-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
+    <img src="https://img.shields.io/badge/Listen%20the%20Music!-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
   </a>
 </p>
 <br>
@@ -51,7 +51,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeNobrega&theme=tokyo-night&line=5c00e6&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
+<h2 align="center">🛠️ &ensp; <i>T e c n o l o g i e s</i></h2>
 <table align="center" height="280px">
   <tr>
     <td align="center">
