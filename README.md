@@ -8,6 +8,8 @@
 <p align="center">
   <a href="https://youtu.be/FWDFGYMNv3Q?si=zZe73ePf4e0PHVr0">
     <img src="https://img.shields.io/badge/Listen%20the%20Music!-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
+      <a href="https://www.youtube.com/watch?v=xCvHQnl_M0g&list=RD4rDVb8q8KWw&index=6">
+    <img src="https://img.shields.io/badge/Listen%20the%20Music!-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
   </a>
 </p>
 <br>
