@@ -3,7 +3,10 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/>
 </p>
 <p align="center">
-<img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
+<img src="https://4.bp.blogspot.com/-SuBsbqwYMAg/Wq_pBZ4astI/AAAAAAAAHSo/qLeiISiHcQoL_wMfhDYXZKAhyYeJKwkNwCLcBGAs/s1600/80e7c708650dc94a81753b0797f58640544743f5_hq.gif" height="350" width="800">
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
   
 <p align="center">
   <a href="https://youtu.be/FWDFGYMNv3Q?si=zZe73ePf4e0PHVr0">
