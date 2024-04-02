@@ -21,14 +21,6 @@
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 
 <details>
-  <summary>Details👀</summary>
- ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
-<h4>
-<h4 align="left">  
- 
-╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
-<h4>
-
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -47,7 +39,6 @@
   </a>
   <br/>
 </details>
-
 
 <details>
   <summary>Activity Graph 📈</summary>
