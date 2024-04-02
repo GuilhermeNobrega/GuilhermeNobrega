@@ -174,7 +174,41 @@
         </b>
       </sub>
     </td>
+    
+   <td align="center" width="100px;">
+      <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Wireshark</pre>
+        </b>
+      </sub>
+    </td>
+    <tr>
+       <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=grafana" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Grafana</pre>
+        </b>
+      </sub>
+    </td>
+       <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+         <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>vim</pre>
+        </b>
+      </sub>
+    </td>
      </tr>
+  </tr>
   </tr>
 </table>
 <br><br>
