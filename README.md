@@ -2,22 +2,8 @@
 <p align="ccenter">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/>
 </p>
-<p align="center">
-  <img src="https://media.tenor.com/nj8d2FKjygYAAAAM/thumbs-up-good-job.gif" height="100%" width="300">
-  
-<p align="center">
-  <a href="https://youtu.be/FWDFGYMNv3Q?si=zZe73ePf4e0PHVr0">
-    <img src="https://img.shields.io/badge/Listen%20the%20Music!-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xCvHQnl_M0g&list=RD4rDVb8q8KWw&index=6">
-    <img src="https://img.shields.io/badge/Listen%20the%20Music!-★★★★★-brightgreen?style=for-the-badge&logo=youtube" alt="Please,listen!">
-  </a>
-</p>
 <br>
 <br>
-<hr>
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 
 <details>
