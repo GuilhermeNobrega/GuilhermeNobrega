@@ -1,6 +1,8 @@
 
 <p align="ccenter">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/>
+  
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
+
 </p>
 <br>
 <br>
