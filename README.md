@@ -185,6 +185,13 @@
           <pre>vim</pre>
         </b>
       </sub>
+           <td align="center" width="100px;">
+      <img src="https://img.apponic.com/179/1/54cdf3a0a673716d1514ac1a4ea60bad.png" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>HxD</pre>
+        </b>
+      </sub>
     </td>
      </tr>
   </tr>
