@@ -251,5 +251,6 @@
   <img src="https://github.com/GuilhermeNobrega/GuilhermeNobrega/raw/main/gifmassa.gif" alt="Alt Text" height="200%" width="330">
   <img src="https://cdn.dribbble.com/users/2393242/screenshots/18786140/media/b32755a4dde3ad48a5062da7ee8a1bf6.gif" alt="Alt Text" height=10%" width="250">
   <img src="https://art.pixilart.com/1f9b037cb7caa4d.gif" alt="Alt Text" height=30%" width="300">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
+  <!-- <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient"/> -->
 </p>
