@@ -12,7 +12,7 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Experience,Commit,Repositories,Followers,Experiencie,Issues,Stars,&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="trophy"/> 
+    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Experience,Commit,Repositories,Followers,Experiencie,Stars&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="trophy"/> 
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
