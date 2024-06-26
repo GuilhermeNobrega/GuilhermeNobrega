@@ -58,7 +58,7 @@
       <img src="https://skillicons.dev/icons?i=js" width="65px" alt="FastAPI icon"/><br>
       <sub>
         <b>
-          <pre>javascript</pre>
+          <pre>Javascript</pre>
         </b>
       </sub>
     </td>
