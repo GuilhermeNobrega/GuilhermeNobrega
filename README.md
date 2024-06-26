@@ -107,7 +107,7 @@
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Bash</pre>
+          <pre>&emsp;Bourne in shell</pre>
         </b>
       </sub>
     </td>
@@ -167,7 +167,7 @@
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>flask</pre>
+          <pre>Flask</pre>
         </b>
       </sub>
     </td>
@@ -182,7 +182,7 @@
       <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>vim</pre>
+          <pre>Vim</pre>
         </b>
       </sub>
            <td align="center" width="100px;">
