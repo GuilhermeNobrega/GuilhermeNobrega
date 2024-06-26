@@ -164,10 +164,10 @@
     </td>
     <tr>
        <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=grafana" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>Grafana</pre>
+          <pre>flask</pre>
         </b>
       </sub>
     </td>
