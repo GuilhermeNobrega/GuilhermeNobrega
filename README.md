@@ -185,6 +185,14 @@
           <pre>Vim</pre>
         </b>
       </sub>
+            <td align="center" width="100px;">
+      <img src="https://ih1.redbubble.net/image.4813597881.3885/ur,pin_large_front,square,1000x1000.u6.jpg" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>GNU Nano</pre>
+        </b>
+      </sub>
+    </td>
            <td align="center" width="100px;">
       <img src="https://ssd-disclosure.com/wp-content/uploads/2022/11/1_vloEha9mTCLM_SEnXdIUIw.png" width="65px" alt="Git icon"/><br>
       <sub>
