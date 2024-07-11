@@ -262,7 +262,6 @@ https://github.com/seanprashad/slackmoji
 
 <br><img align='center' src="https://i.pinimg.com/originals/7b/bf/dc/7bbfdc15f72495dd5669007d168e95e0.gif" width="50" height="50"> On my account you will find a lot of little things!
 
-[<img src = "https://img.shields.io/badge/wouldyoukindly3178-7289DA?style=for-the-badge&logo=discord&logoColor=white">](s)
 
 
 <p align="center">
