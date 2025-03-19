@@ -111,10 +111,10 @@
       </sub>
     </td>
    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=discord" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Bots</pre>
+          <pre>&emsp;Kubernetes</pre>
         </b>
       </sub>
     </td>
@@ -136,10 +136,10 @@
       </sub>
     </td>
   <td align="center" width="100px;">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>StackOverflow</pre>
+          <pre>Postman</pre>
         </b>
       </sub>
     </td>
