@@ -8,10 +8,9 @@
 
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 <details>
-  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portal-orange.gif" height="50" width="50">
 
   <summary>GitHub Profile Stats 💻</summary>
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-blue.gif" height="50" width="50">
+  
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Experience,Commit,Repositories,Followers,Experiencie,Stars&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="trophy"/> 
