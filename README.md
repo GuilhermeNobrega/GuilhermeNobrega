@@ -250,8 +250,20 @@
 <br>
 </div>
 <p align="center"
- 
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave5.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave6.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave7.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave8.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave9.gif" height="50" width="50">
+</p>
 <hr>
 <p align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
