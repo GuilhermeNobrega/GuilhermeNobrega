@@ -8,6 +8,23 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-boba.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-boba.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-boba.gif" height="50" width="50">
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-chico.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-dark-mode.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-database.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-reverse-portal-blue.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portal-blue.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-wizard.gif
+
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave1.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave2.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave3.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave4.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave5.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave6.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave7.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave8.gif
+https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave9.gif
+
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cool.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-cool.gif" height="50" width="50">
