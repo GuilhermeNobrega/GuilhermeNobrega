@@ -205,7 +205,9 @@
 </table>
 <br><br>
 <!-- =============================================================== -->
-<h2 align="center">&ensp; <i>═══════ 𝐋𝐈𝐍𝐔𝐗 ═══════</i></h2>
+<h2 align="center">&ensp; <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-wizard.gif" height="50" width="50">
+<i>═══════ 𝐋𝐈𝐍𝐔𝐗 ═══════</i><img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-wizard.gif" height="50" width="50">
+</h2>
 <table align="center" height="50px">
   <tr>
     <td align="center">
