@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse-portal-blue.gif" height="50" width="50">
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-blue.gif" height="50" width="50">
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-wizard.gif" height="50" width="50">
-
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portal-orange.gif" height="50" width="50">
 
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
