@@ -262,28 +262,7 @@
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
 </p>
-
 <hr>
-  <!-- Linha 1: da esquerda para a direita -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave5.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave6.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave7.gif" height="50" width="50">
-</p>
-
-<!-- Linha 2: da direita para a esquerda -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave9.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave8.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave7.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave6.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave5.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
   
 <p align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
