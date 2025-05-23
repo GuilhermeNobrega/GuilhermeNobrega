@@ -8,7 +8,13 @@
 
 <!-- Linha 1: da esquerda para a direita -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-headset.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-laptop.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-cool.gif" height="50" width="50">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
@@ -40,26 +46,6 @@
 <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-wizard.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portal-orange.gif" height="50" width="50">
 
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave5.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave6.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave7.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave8.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-wave9.gif" height="50" width="50">
-
-
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave1.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave2.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave3.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave4.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave5.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave6.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave7.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave8.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-wave9.gif" height="50" width="50">
 
 
 <p align="center">
