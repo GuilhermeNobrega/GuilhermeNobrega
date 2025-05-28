@@ -1,3 +1,8 @@
+MultiLanguage
+NewUser
+LongTimeUser
+
+<img src="https://github-profile-trophy.vercel.app/?username=GuilhermeNobrega&title=Experience,Commit,Repositories,Followers,Stars&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="trophy"/> 
 
 <p align="center">
 <img align='center' src="https://steamuserimages-a.akamaihd.net/ugc/931554599164586618/C8CF49E78556E71AA15418C1C3B9A9C7F85B2F59/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false height="192px">
