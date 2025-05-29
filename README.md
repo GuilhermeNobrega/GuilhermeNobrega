@@ -1,29 +1,34 @@
-<p align="ccenter">
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
+<p align="center">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
 </p>
 
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
+
 <details>
+  <summary>Trophies🏆</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=GuilhermeNobrega&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="Trophies"/>
+    </a>
+  </p>
+</details>
 
-  <summary>GitHub Profile Stats 💻</summary>
+<details>
+  <summary>Profile Stats 💻</summary>
+  <br/>
   
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=GuilhermeNobrega&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="trophy" />
-  </a>
+ <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNobrega&theme=dracula" />
+  </p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GuilhermeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GuilhermeNobrega&show_icons=true&count_private=true&theme=ambient_gradient&hide_border=true&title_color=5c00e6&icon_color=00E676" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GuilhermeNobrega's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobrega&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true&title_color=5c00e6&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeNobrega&theme=dracula&utcOffset=-3">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=dracula">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula">
-    <!-- alt="Data on commits per day" width="49.7%" height="auto -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeNobrega&theme=dracula&utcOffset=-3" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeNobrega&theme=dracula" />
     
-  </a>
-  <br/>
+  </p>
 </details>
 
 <details>
