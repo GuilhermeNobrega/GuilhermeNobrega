@@ -3,21 +3,13 @@
 </p>
 
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
-
-<details>
-  <summary>Trophies🏆</summary>
-  <br/>
+<br>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-trophies.vercel.app/?username=GuilhermeNobrega&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="Trophies"/>
     </a>
   </p>
-</details>
-
-<details>
-  <summary>Profile Stats 💻</summary>
-  <br/>
-  
+  <br>
  <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNobrega&theme=dracula" />
   </p>
@@ -27,13 +19,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeNobrega&theme=dracula" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeNobrega&theme=dracula" />
+    <br>
     
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeNobrega&theme=tokyo-night&line=5c00e6&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   </p>
-  
-</details>
-
+<br>
 <h2 align="center">🛠️ &ensp; <i>T e c n o l o g i e s</i></h2>
 <table align="center" height="280px">
   <tr>
