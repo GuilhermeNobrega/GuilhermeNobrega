@@ -26,6 +26,7 @@
   </p>
 <br>
 <h2 align="center">🛠️ &ensp; <i>T e c n o l o g i e s</i></h2>
+<br>
 <table align="center" height="280px">
   <tr>
     <td align="center">
