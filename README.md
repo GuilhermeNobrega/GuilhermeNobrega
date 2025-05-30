@@ -28,14 +28,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNobrega&theme=dracula" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeNobrega&theme=dracula" />
     
-  </p>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeNobrega&theme=tokyo-night&line=5c00e6&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeNobrega&theme=tokyo-night&line=5c00e6&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </p>
+  
 </details>
 
 <h2 align="center">🛠️ &ensp; <i>T e c n o l o g i e s</i></h2>
