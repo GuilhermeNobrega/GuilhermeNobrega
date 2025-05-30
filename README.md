@@ -239,9 +239,8 @@
 <hr>
 <p align="center">
 <br><p align="center"><b></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeNobrega}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://warriorsfate.wordpress.com/wp-content/uploads/2016/08/dj.gif" /></p> 
 <br>
-</div>
 <p align="center"
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hshprxqckieungz6boclzadczu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
