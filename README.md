@@ -254,9 +254,7 @@
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
 
-  
 </p>
-<hr>
   
 <p align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
