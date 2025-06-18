@@ -239,7 +239,8 @@
 <hr>
 <p align="center">
 <br><p align="center"><b></b></p>  
-<p align="center"><img align="center" src="https://warriorsfate.wordpress.com/wp-content/uploads/2016/08/dj.gif" /></p> 
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/25/fb/a8/25fba81675f3b5afbbe6f69b0f9c7b56.gif" /></p>
+<!-- https://i.pinimg.com/originals/a5/04/fa/a504fa13999f90530cf3b64d02239b79.gif -->
 <br>
 <p align="center"
 
