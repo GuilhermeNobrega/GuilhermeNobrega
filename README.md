@@ -225,8 +225,6 @@
   </tr>
   </tr>
 </table>
-<br><br>
-<!-- =============================================================== -->
 </h2>
 <p align="center">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
