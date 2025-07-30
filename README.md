@@ -190,6 +190,35 @@
         <b>
           <pre>Zabbix</pre>
         </b>
+       <tr>
+      <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=ansible" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>ansible</pre>
+        </b>
+       <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Azure</pre>
+        </b>
+      <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=grafana" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Grafana</pre>
+         <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Ubuntu</pre>
+        <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=kali" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Kali</pre>
+        </b>
       </sub>
     </td>
      </tr>
@@ -198,26 +227,7 @@
 </table>
 <br><br>
 <!-- =============================================================== -->
-<h2 align="center">&ensp; <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" height="50" width="50">
 </h2>
-<table align="center" height="50px">
-  <tr>
-    <td align="center">
-      <img src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"><br>
-    </td>
-    <td align="center">
-      <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
-    </td>
-     <td align="center">
-      <img src="https://img.shields.io/badge/Arch-557C94?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
-    </td>
-    <td align="center">
-      <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br>
-    </td>
-    <td align="center">
-      <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"><br>
-    </td>
-</table>
 <p align="center">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
