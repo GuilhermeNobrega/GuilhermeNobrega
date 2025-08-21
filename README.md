@@ -36,202 +36,129 @@
 <br>
 <table align="center" height="280px">
   <tr>
+    <!-- Linguagens -->
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br>
+      <sub><b><pre>Python</pre></b></sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="Python icon"/><br>
-      <sub>
-        <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="FastAPI icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
+      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br>
+      <sub><b><pre>C</pre></b></sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Flask icon"/><br>
-      <sub>
-        <b>
-          <pre>Docker</pre>
-        </b>
-      </sub>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
+      <sub><b><pre>Java</pre></b></sub>
     </td>
+    <!-- Frontend -->
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="AWS icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="Heroku icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML</pre>
-        </b>
-      </sub>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br>
+      <sub><b><pre>HTML</pre></b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
+      <sub><b><pre>CSS3</pre></b></sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Bourne in shell</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Kubernetes</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-  <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Mysql</pre>
-        </b>
-      </sub>
-    </td>
-  <td align="center" width="100px;">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Github</pre>
-        </b>
-      </sub>
-    </td>
-  <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Postman</pre>
-        </b>
-      </sub>
-    </td>
-     
- <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Visual Studio Code</pre>
-        </b>
-      </sub>
-    </td>
-    
-   <td align="center" width="100px;">
-      <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Wireshark</pre>
-        </b>
-      </sub>
-    </td>
-    <tr>
-       <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Flask</pre>
-        </b>
-      </sub>
-    </td>
-       <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Java</pre>
-        </b>
-      </sub>
-         <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Vim</pre>
-        </b>
-      </sub>
-            <td align="center" width="100px;">
-      <img src="https://ih1.redbubble.net/image.4813597881.3885/ur,pin_large_front,square,1000x1000.u6.jpg" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>GNU Nano</pre>
-        </b>
-      </sub>
-    </td>
-           <td align="center" width="100px;">
-      <img src="https://ssd-disclosure.com/wp-content/uploads/2022/11/1_vloEha9mTCLM_SEnXdIUIw.png" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Zabbix</pre>
-        </b>
-       <tr>
-      <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=ansible" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>ansible</pre>
-        </b>
-       <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Azure</pre>
-        </b>
-      <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=grafana" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Grafana</pre>
-         <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Ubuntu</pre>
-        <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=kali" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Kali</pre>
-        </b>
-      </sub>
-    </td>
-     </tr>
   </tr>
+  <tr>
+    <!-- Versionamento -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub><b><pre>Git</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="65px" alt="GitHub icon"/><br>
+      <sub><b><pre>GitHub</pre></b></sub>
+    </td>
+    <!-- DevOps & Cloud -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br>
+      <sub><b><pre>Docker</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes icon"/><br>
+      <sub><b><pre>Kubernetes</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ansible" width="65px" alt="Ansible icon"/><br>
+      <sub><b><pre>Ansible</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- Cloud -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure icon"/><br>
+      <sub><b><pre>Azure</pre></b></sub>
+    </td>
+    <!-- Banco de Dados & APIs -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
+      <sub><b><pre>MySQL</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
+      <sub><b><pre>Postman</pre></b></sub>
+    </td>
+    <!-- IDE -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br>
+      <sub><b><pre>Visual Studio Code</pre></b></sub>
+    </td>
+    <!-- Framework -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
+      <sub><b><pre>Flask</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- Sistemas Operacionais -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br>
+      <sub><b><pre>Linux</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="65px" alt="Ubuntu icon"/><br>
+      <sub><b><pre>Ubuntu</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kali" width="65px" alt="Kali icon"/><br>
+      <sub><b><pre>Kali</pre></b></sub>
+    </td>
+    <!-- Shell & Editors -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br>
+      <sub><b><pre>Bash</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Vim icon"/><br>
+      <sub><b><pre>Vim</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- Editors -->
+    <td align="center">
+      <img src="https://ih1.redbubble.net/image.4813597881.3885/ur,pin_large_front,square,1000x1000.u6.jpg" width="65px" alt="GNU Nano icon"/><br>
+      <sub><b><pre>GNU Nano</pre></b></sub>
+    </td>
+    <!-- Observabilidade -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=grafana" width="65px" alt="Grafana icon"/><br>
+      <sub><b><pre>Grafana</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://ssd-disclosure.com/wp-content/uploads/2022/11/1_vloEha9mTCLM_SEnXdIUIw.png" width="65px" alt="Zabbix icon"/><br>
+      <sub><b><pre>Zabbix</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" width="65px" alt="Wireshark icon"/><br>
+      <sub><b><pre>Wireshark</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="65px" alt="Vim icon"/><br>
+      <sub><b><pre>Prometheus</pre></b></sub>
+    </td>
   </tr>
 </table>
+
 </h2>
 <p align="center">
 <img src="https://pa1.narvii.com/6565/853c9e5856133a921e36ae9fc01d1f05abde7709_00.gif" height="100" width="100">
