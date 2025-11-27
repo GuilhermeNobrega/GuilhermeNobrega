@@ -2,6 +2,7 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=Waving&height=300&color=gradient&customColorList=0,10,10,10)" />
 </p>
 
+
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 <br>
   <p align="center">
