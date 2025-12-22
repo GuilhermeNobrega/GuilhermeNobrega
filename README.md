@@ -58,6 +58,10 @@
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub><b><pre>CSS3</pre></b></sub>
     </td>
+   <td align="center">
+      <img src="https://haostreinamentos.com.br/images/cursos/Sql.png" width="65px" alt="Vim icon"/><br>
+      <sub><b><pre>SQL</pre></b></sub>
+    </td>
   </tr>
   <tr>
     <!-- Versionamento -->
@@ -92,7 +96,7 @@
     <!-- Banco de Dados & APIs -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
-      <sub><b><pre>MySQL</pre></b></sub>
+      <sub><b><pre>MySQL Workbench</pre></b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
@@ -149,12 +153,16 @@
       <sub><b><pre>Zabbix</pre></b></sub>
     </td>
     <td align="center">
-      <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" width="65px" alt="Wireshark icon"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" width="65px" alt="Wireshark icon"/><br>
       <sub><b><pre>Wireshark</pre></b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=prometheus" width="65px" alt="Vim icon"/><br>
       <sub><b><pre>Prometheus</pre></b></sub>
+    </td>
+     <td align="center">
+      <img src="https://rancher.com/docs/img/logo-square.png" width="65px" alt="Vim icon"/><br>
+      <sub><b><pre>Rancher</pre></b></sub>
     </td>
   </tr>
 </table>
