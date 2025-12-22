@@ -86,6 +86,10 @@
       <img src="https://skillicons.dev/icons?i=ansible" width="65px" alt="Ansible icon"/><br>
       <sub><b><pre>Ansible</pre></b></sub>
     </td>
+     <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="65px" alt="Ansible icon"/><br>
+      <sub><b><pre>Kotlin</pre></b></sub>
+    </td>
   </tr>
   <tr>
     <!-- Cloud -->
@@ -112,6 +116,10 @@
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
       <sub><b><pre>Flask</pre></b></sub>
     </td>
+    <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="65px" alt="Flask icon"/><br>
+      <sub><b><pre>Markdown</pre></b></sub>
+    </td>
   </tr>
   <tr>
     <!-- Sistemas Operacionais -->
@@ -135,6 +143,10 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Vim icon"/><br>
       <sub><b><pre>Vim</pre></b></sub>
+    </td>
+     <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="65px" alt="Vim icon"/><br>
+      <sub><b><pre>Idea</pre></b></sub>
     </td>
   </tr>
   <tr>
